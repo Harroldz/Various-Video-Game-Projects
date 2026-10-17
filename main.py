@@ -1,6 +1,7 @@
 # Simple Snake Game
 # By Harry Zekkas
 # General Python Practice/Fun
+#Goal is to creare simple snake maze game and keep building on it
 
 import turtle
 import time
